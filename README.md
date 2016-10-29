@@ -1,6 +1,6 @@
 # vue-keep-scroll-position
 
-A vue 2.0 directive to keep scroll position for keep-alived components.
+A vue 2.0 directive to keep scroll position for keep-alived components. Forked from [vue-keep-scroll](https://github.com/mark-hahn/vue-keep-scroll) and rewritten for vue 2.0 compatibility.
 
 ## Install
 
