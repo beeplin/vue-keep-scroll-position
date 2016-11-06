@@ -27,6 +27,6 @@
   else if typeof define is 'function' and define.amd
     define -> plugin
   else if window?
-    window.VueTweener = plugin
+    window.VueKeepScrollPosition = plugin
 
 )()

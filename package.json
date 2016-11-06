@@ -1,6 +1,6 @@
 {
 	"name": "vue-keep-scroll-position",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"description": "A vue 2.0 directive to keep scroll position for keep-alived components.",
 	"main": "index.js",
 	"scripts": {

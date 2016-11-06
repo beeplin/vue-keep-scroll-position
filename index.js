@@ -37,6 +37,6 @@
 			return plugin;
 		});
 	} else if (typeof window !== "undefined" && window !== null) {
-		return window.VueTweener = plugin;
+		return window.VueKeepScrollPosition = plugin;
 	}
 })();
